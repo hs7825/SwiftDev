@@ -113,7 +113,7 @@ To run this project:
 
 ## Demo
 
-* <img src='./finalKap' width='' alt='Showing final app demo' />*
+* <img src='./finalKap.gif' width='' alt='Showing final app demo' />*
 
 ---
 
