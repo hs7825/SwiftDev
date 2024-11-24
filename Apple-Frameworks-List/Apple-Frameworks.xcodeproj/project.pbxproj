@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7F7037CC2CF2457700CD990A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7F7037CB2CF2457700CD990A /* README.md */; };
-		7F822D5B2CF254C500D3D555 /* finalDemo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7F822D5A2CF254C500D3D555 /* finalDemo.mp4 */; };
+		7F822D822CF2BCB300D3D555 /* finalKap.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7F822D812CF2BCB300D3D555 /* finalKap.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,7 +33,7 @@
 		7F27E8CA2CED4D8C008ED5F2 /* Apple-FrameworksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Apple-FrameworksTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F27E8D42CED4D8C008ED5F2 /* Apple-FrameworksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Apple-FrameworksUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F7037CB2CF2457700CD990A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		7F822D5A2CF254C500D3D555 /* finalDemo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = finalDemo.mp4; sourceTree = "<group>"; };
+		7F822D812CF2BCB300D3D555 /* finalKap.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = finalKap.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -83,7 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				7F7037CB2CF2457700CD990A /* README.md */,
-				7F822D5A2CF254C500D3D555 /* finalDemo.mp4 */,
+				7F822D812CF2BCB300D3D555 /* finalKap.gif */,
 				7F70378C2CF0013F00CD990A /* Apple-Frameworks */,
 				7F27E8CD2CED4D8C008ED5F2 /* Apple-FrameworksTests */,
 				7F27E8D72CED4D8C008ED5F2 /* Apple-FrameworksUITests */,
@@ -222,7 +222,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F7037CC2CF2457700CD990A /* README.md in Resources */,
-				7F822D5B2CF254C500D3D555 /* finalDemo.mp4 in Resources */,
+				7F822D822CF2BCB300D3D555 /* finalKap.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
