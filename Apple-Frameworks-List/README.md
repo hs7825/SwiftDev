@@ -113,7 +113,7 @@ To run this project:
 
 ## Demo
 
-*/Users/hectorsaucedosoledad/Documents/projects/Apple-Frameworks-List/finalDemo.mp4*
+* <img src='/Users/hectorsaucedosoledad/Documents/projects/Apple-Frameworks-List/finalDemo.mp4' width='' alt='Showing the user be able to change the button' />*
 
 ---
 
